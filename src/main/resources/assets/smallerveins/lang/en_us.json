@@ -1,0 +1,13 @@
+{
+  "itemGroup.smallerveins": "Example Mod Tab",
+  "block.smallerveins.example_block": "Example Block",
+  "item.smallerveins.example_item": "Example Item",
+
+  "smallerveins.configuration.title": "Smaller Veins Configs",
+  "smallerveins.configuration.section.smallerveins.common.toml": "Smaller Veins Configs",
+  "smallerveins.configuration.section.smallerveins.common.toml.title": "Smaller Veins Configs",
+  "smallerveins.configuration.items": "Item List",
+  "smallerveins.configuration.logDirtBlock": "Log Dirt Block",
+  "smallerveins.configuration.magicNumberIntroduction": "Magic Number Text",
+  "smallerveins.configuration.magicNumber": "Magic Number"
+}
